@@ -1,4 +1,4 @@
-### Hey I'm John. I'm an iOS developer currently picking up Javascript 👋
+### Hey I'm John 👋
 
 - 🔭 I’m currently working on finishing the General Assembly full stack course.
 - 🌱 I’m currently learning the MERN stack.
