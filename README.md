@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey I'm John. I'm an iOS developer currently picking up Javascript 👋
+
+- 🔭 I’m currently working on finishing the General Assembly full stack course.
+- 🌱 I’m currently learning the MERN stack.
+- 👯 I’m looking to collaborate on meaningful projects.
+- 🤔 I’m looking for help with peoples progress.
+- 💬 Ask me about anything
+- 📫 How to reach me: johnmccants002@gmail.com
 
 <!--
 **johnmccants002/johnmccants002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
