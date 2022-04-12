@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on finishing the General Assembly full stack course.
 - 🌱 I’m currently learning the MERN stack.
 - 👯 I’m looking to collaborate on meaningful projects.
-- 🤔 I’m looking for help with peoples progress.
+- 🤔 I’m looking for help with progressing my skills to the next level.
 - 💬 Ask me about anything
 - 📫 How to reach me: johnmccants002@gmail.com
 
