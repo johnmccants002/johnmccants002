@@ -1,6 +1,6 @@
 ### Hey I'm John 👋
 
-- 🔭 I’m currently working on finishing the General Assembly full stack course and am working on an iOS project.
+- 🔭 I’m currently working on finding work in the field. Just finished a coding bootcamp at General Assembly.
 - 🌱 I’m currently learning the MERN stack and improving my Swift skills.
 - 👯 I’m looking to collaborate on meaningful projects.
 - 🤔 I’m looking for help with progressing my skills to the next level.
