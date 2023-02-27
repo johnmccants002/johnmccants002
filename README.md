@@ -1,8 +1,8 @@
 ### Hey I'm John 👋
 
-- 🔭 I’m currently working on finding work in the field. Just finished a coding bootcamp at General Assembly.
-- 🌱 I’m currently learning the MERN stack and improving my Swift skills.
-- 👯 I’m looking to collaborate on meaningful projects.
+- 🔭 I’m currently working working for company called OnDeck Pro.
+- 🌱 I’m currently writing code in React Native in the Expo Environment.
+- 👯 I’m open to collaborating with other devs.
 - 🤔 I’m looking for help with progressing my skills to the next level.
 - 💬 Ask me about anything
 - 📫 How to reach me: johnmccants002@gmail.com
