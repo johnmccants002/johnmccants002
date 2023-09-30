@@ -1,7 +1,7 @@
 ### Hey I'm John 👋
 
-- 🔭 I’m currently working working for company called OnDeck Pro.
-- 🌱 I’m currently writing code in React Native in the Expo Environment.
+- 🔭 I’m currently working for a company called OnDeck Pro.
+- 🌱 I’m currently writing code in React Native / Typescript in the Expo Environment.
 - 👯 I’m open to collaborating with other devs.
 - 🤔 I’m looking for help with progressing my skills to the next level.
 - 💬 Ask me about anything
